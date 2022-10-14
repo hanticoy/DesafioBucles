@@ -1,5 +1,5 @@
 
-var suma = 0;
+let suma = 0;
 
 for (var i = 1; i <= 100; i++) {
     suma = suma +i;

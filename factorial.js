@@ -1,4 +1,4 @@
-var factor = 1;
+let factor = 1;
 
 for (var i = 1; i <= 12; i++) {
     factor = factor * i;
